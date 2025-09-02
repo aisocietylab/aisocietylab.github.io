@@ -1,0 +1,7 @@
+title: AI for Society Lab
+description: >- # this means to ignore newlines until "baseurl:"
+  AI, Data, Machine Learning, RecSys, Computational Social Science, Credibility & Trust, Networks, Biases
+# Build settings
+remote_theme: socialcomplab/cayman
+github:
+  is_project_page: false
