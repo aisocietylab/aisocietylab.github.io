@@ -16,13 +16,13 @@ In addition to its research activities, the lab contributes regularly co-organiz
 
 [1] Schedl, M., Anelli, V. W., & Lex, E. (2025). Technical and Regulatory Perspectives on Information Retrieval and Recommender Systems: Fairness, Transparency, and Privacy. Springer Nature Switzerland, Imprint: Springer.
 
-[2] Parada-Cabaleiro, E., Mayerl, M., Brandl, S., Skowron, M., Schedl, M., Lex, E., \& Zangerle, E. (2024). Song lyrics have become simpler and more repetitive over the last five decades. Scientific Reports, 14(1), 5531.
+[2] Parada-Cabaleiro, E., Mayerl, M., Brandl, S., Skowron, M., Schedl, M., Lex, E., & Zangerle, E. (2024). Song lyrics have become simpler and more repetitive over the last five decades. Scientific Reports, 14(1), 5531.
 
-[3] Reiter-Haas, M., Klösch, B., Hadler, M., \& Lex, E. (2023). Polarization of opinions on COVID-19 measures: integrating twitter and survey data. Social Science Computer Review, 41(5), 1811-1835.
+[3] Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2023). Polarization of opinions on COVID-19 measures: integrating twitter and survey data. Social Science Computer Review, 41(5), 1811-1835.
 
-[4] Hussain, H., Cao, M., Sikdar, S., Helic, D., Lex, E., Strohmaier, M., \& Kern, R. (2022). Adversarial inter-group link injection degrades the fairness of graph neural networks. In 2022 IEEE International Conference on Data Mining (ICDM) (pp. 975-980). IEEE.
+[4] Hussain, H., Cao, M., Sikdar, S., Helic, D., Lex, E., Strohmaier, M., & Kern, R. (2022). Adversarial inter-group link injection degrades the fairness of graph neural networks. In 2022 IEEE International Conference on Data Mining (ICDM) (pp. 975-980). IEEE.
 
-[5] Lex, E., Kowald, D., Seitlinger, P., Tran, T. N. T., Felfernig, A., \& Schedl, M. (2021). Psychology-informed recommender systems. Foundations and trends® in information retrieval, 15(2), 134-242.
+[5] Lex, E., Kowald, D., Seitlinger, P., Tran, T. N. T., Felfernig, A., & Schedl, M. (2021). Psychology-informed recommender systems. Foundations and Trends® in Information Retrieval, 15(2), 134-242.
 
 ## Recent Tutorials
 
