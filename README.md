@@ -26,6 +26,7 @@ In addition to its research activities, the lab contributes regularly co-organiz
 
 ## Recent Tutorials
 
+- [SIGIR 2025: Psychological Aspects in Retrieval and Recommender Systemss](https://github.com/aisocietylab/Psy-IR-RecSys-SIGIR25)
 - [UMAP 2024: Trustworthy User Modeling and Recommendation From Technical and Regulatory Perspectives](https://socialcomplab.github.io/Trustworthy-UMAP-Tutorial-24/)
 - [WSDM 2023: Trustworthy Algorithmic Ranking Systems](https://socialcomplab.github.io/Trustworthy-ARS-Tutorial-WSDM22/)
 - [WEBCONF 2022: PIRS - Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
@@ -61,16 +62,16 @@ PhD students:
 - Tomislav Duricic
 
 Master's students:
-- Julian Kainz
-- Christoph Schatz
-- Stefan Russmann
+- Stephan Bartl
+- David Frühwirt
+- Tobias Pichler
 
 Bachelor's students:
 - Jakob Zenz
 - Christian Falk-Ohrenhofer
 - Manuel Riedl
 - Nico Ohler
-- Adam Urosevic
+- Christian Bachl
 
 Alumni:
 - Emanuel Lacic
@@ -84,6 +85,7 @@ Alumni:
 - Sandra Haas
 - Edina Mulahasanovic
 - Daniel Scharf
+- Magdalena Fuchs
   
 # Teaching
 
