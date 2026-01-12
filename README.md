@@ -42,12 +42,6 @@ In addition to its research activities, the lab contributes regularly co-organiz
 
 ## Recent Publications
 - [Mind the Gap: Urban-Rural Disparities in Wheelchair Accessibility for POI Recommendations](/papers/RecSoGood2025-Mind_the_Gap.pdf)
-<details>
-<summary>
-Abstract.
-</summary>
-Point-of-Interest recommendation systems (POI-RS) play a central role in how people discover and visit places. However, these systems often overlook accessibility needs of users, particularly individuals with ambulatory disabilities. Using Google Maps data enriched with U.S. population statistics, we quantify geographic disparities in how POIs are labeled with wheelchair accessibility information. We find that (i) the likelihood that a POI is labeled as wheelchair-accessible increases with population size and (ii) rural areas contain disproportionally more venues with unknown accessibility status. We conduct an analysis on six recommendation models, containing baseline, Matrix Factorization, and POI models, to quantify the bias in performance between places with accessibility metadata and no metadata, and find evidence that this bias propagates through these systems, resulting in further disparities in recommendations for users with mobility-related needs. We conclude by discussing implications for POI-RS design, including the systematic collection of accessibility metadata and the development of fairness-aware models to support more inclusive and equitable recommendations.
-</details>
 
 ## Selected GitHub Repositories:
 - [Predicting Music Relistening Behavior Using the ACT-R Framework](https://github.com/socialcomplab/recsys21-relistening-actr)
