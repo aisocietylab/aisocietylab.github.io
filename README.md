@@ -41,7 +41,7 @@ In addition to its research activities, the lab contributes regularly co-organiz
 - [Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)
 
 ## Recent Publications
-- [Mind the Gap: Urban-Rural Disparities in Wheelchair Accessibility for POI Recommendations](/papers/RecSoGood2025-Mind_the_Gap.pdf)
+- [Mind the Gap: Urban-Rural Disparities in Wheelchair Accessibility for POI Recommendations](/papers/RecSoGood2025-Mind_the_Gap.pdf): Mayr, G., Reiter-Haas, M., & Lex, E. (2025). Mind the Gap: Urban-Rural Disparities in Wheelchair Accessibility for POI Recommendations. In International Workshop on Recommender Systems for Sustainability and Social Good (pp. 108-116). Cham: Springer Nature Switzerland.
 
 ## Selected GitHub Repositories:
 - [Predicting Music Relistening Behavior Using the ACT-R Framework](https://github.com/socialcomplab/recsys21-relistening-actr)
